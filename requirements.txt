@@ -1,0 +1,7 @@
+chromadb
+python-dotenv
+sentence-transformers
+torch
+torchvision
+requests
+streamlit
